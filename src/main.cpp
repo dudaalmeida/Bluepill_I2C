@@ -1,5 +1,5 @@
 #include "mbed.h"
-#include "SHT3x.h"
+#include "Adafruit_SHT31.h"
 #include "MPU6050.h"
 
 SHT3x Sensor;
