@@ -29,6 +29,6 @@ int main(){
     pc.print(Sensor.GetRelHumidity());
     pc.println("%");
 
-    delay(333);
+    wait_ms(333);
   }
 }
